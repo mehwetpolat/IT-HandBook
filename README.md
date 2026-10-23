@@ -1,8 +1,11 @@
 # IT HandBook · Kurumsal BT, Sistem ve Ağ Operasyonları Kılavuzu
 
-[![GitHub Pages](https://img.shields.io/badge/Live-Demo-2a56d6?style=flat&logo=github)](https://mehwetpolat.github.io/IT-HandBook/)
+> 🚀 **Canlı Web Sitesi:** Rehberleri akıllı tam metin arama, akordeon menü, hızlı komut çözümleri ve mobil uyumlu modern arayüzle doğrudan web üzerinden incelemek için:  
+> 👉 **[https://mehwetpolat.github.io/IT-HandBook/](https://mehwetpolat.github.io/IT-HandBook/)**
+
+[![Canlı Web Sitesi](https://img.shields.io/badge/Canl%C4%B1%20Web%20S%C3%BCr%C3%BCm%C3%BC-Yay%C4%B1nda-2a56d6?style=flat&logo=google-chrome&logoColor=white)](https://mehwetpolat.github.io/IT-HandBook/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Topics](https://img.shields.io/badge/Topics-14%20Guides%20%7C%20400%2B%20Topics-blueviolet)](00-rehber-dizini.md)
+[![Topics](https://img.shields.io/badge/Topics-14%20Rehber%20%7C%20400%2B%20Konu-blueviolet)](00-rehber-dizini.md)
 
 Bu depo; bilgi teknolojileri (BT) desteği, sistem mühendisliği, kurumsal ağ yönetimi ve altyapı operasyonları için hazırlanmış **Türkçe, kapsamlı ve sahada uygulanabilir bir başvuru kılavuzudur**.
 
