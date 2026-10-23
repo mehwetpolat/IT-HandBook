@@ -1,0 +1,12 @@
+{
+  "name": "it-rehberleri",
+  "version": "1.0.0",
+  "description": "Türkçe IT destek, sistem ve ağ yönetimi rehberleri (statik site üreticisi)",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}

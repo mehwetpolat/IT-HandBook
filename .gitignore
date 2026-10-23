@@ -1,0 +1,7 @@
+node_modules/
+_private/
+.inspect.js
+.scan.txt
+.app.js
+.DS_Store
+Thumbs.db
